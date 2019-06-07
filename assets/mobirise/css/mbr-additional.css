@@ -3198,22 +3198,41 @@ body {
 .cid-rsrF3B0KHH .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rsrGpqeEW4 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+.cid-rsJQKw37Kr {
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/background-2000x1125.png");
 }
-.cid-rsrGpqeEW4 P {
-  color: #767676;
+.cid-rsJQKw37Kr H1 {
+  color: #232323;
 }
-.cid-rsrGpqeEW4 .mbr-text,
-.cid-rsrGpqeEW4 .mbr-section-btn {
-  text-align: center;
+.cid-rsJQ67Jnsu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rsJQ67Jnsu .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rsJQ67Jnsu .section-text {
+  padding: 2rem 0;
+}
+.cid-rsJQ67Jnsu .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rsJQ67Jnsu .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rsstVwZHb9 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/polka-bk-1433x272.png");
+  background-image: url("../../../assets/images/background-2000x1125.png");
 }
 .cid-rsstVwZHb9 .mbr-iconfont-social {
   font-size: 32px;
