@@ -2775,17 +2775,22 @@ body {
 .cid-rsrF3B0KHH .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rsrIAg2kOq {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+.cid-rsOKfgbBkI {
+  padding-top: 120px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/background-2000x1125.png");
 }
-.cid-rsrIAg2kOq P {
+.cid-rsOKfgbBkI H1 {
+  color: #232323;
+}
+.cid-rsOKFfeALx {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rsOKFfeALx .mbr-text,
+.cid-rsOKFfeALx blockquote {
   color: #767676;
-}
-.cid-rsrIAg2kOq .mbr-text,
-.cid-rsrIAg2kOq .mbr-section-btn {
-  text-align: left;
 }
 .cid-rsstRI0uXr {
   padding-top: 30px;
