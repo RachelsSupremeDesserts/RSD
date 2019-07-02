@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -610,51 +610,51 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-07-01-bzzzi1na3-h-1080x1169.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-07-01-bzzzi1na3-h-1080x1169-800x866.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "London, England<br>",
+                "active": false
+              },
+              {
+                "tags": "Places",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-07-01-bzyj4ldgkmo-1080x1132.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-07-01-bzyj4ldgkmo-1080x1132-800x839.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "London, England<br>",
+                "active": false
+              },
+              {
+                "tags": "Places",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-06-29-bztlq7jaf3y-1080x1168.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-06-29-bztlq7jaf3y-1080x1168-800x865.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "London, England<br>",
+                "active": false
+              },
+              {
+                "tags": "Places",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/2019-06-10-byirmqzgu19-1080x1209-800x896.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2019-06-10-byirmqzgu19-1080x1209-800x896-800x896.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Venice, Italy",
-                "active": false
-              },
-              {
-                "tags": "Places",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2019-06-07-byaudtsgtuo-1080x967.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019-06-07-byaudtsgtuo-1080x967-800x716.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Venice, Italy",
-                "active": false
-              },
-              {
-                "tags": "Places",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2019-05-30-bygi2rlgm3h-1080x873.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019-05-30-bygi2rlgm3h-1080x873-800x647.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Venice, Italy",
-                "active": false
-              },
-              {
-                "tags": "Places",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/london-1440x1440.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/london-1440x1440-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "London, England<br>",
                 "active": true
               }
             ]
@@ -1240,6 +1240,45 @@
             "gallery__filtersTextStyle": "display-7",
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
+              {
+                "tags": "Events, Holidays",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-07-01-bzzzi1na3-h-1080x1169.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-07-01-bzzzi1na3-h-1080x1169-800x866.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Venice, Italy",
+                "active": false
+              },
+              {
+                "tags": "Events, Holidays",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-07-01-bzyj4ldgkmo-1080x1132.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-07-01-bzyj4ldgkmo-1080x1132-800x839.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Venice, Italy",
+                "active": false
+              },
+              {
+                "tags": "Events, Seasons",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-06-29-bztlq7jaf3y-1080x1168.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-06-29-bztlq7jaf3y-1080x1168-800x865.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Venice, Italy",
+                "active": true
+              },
               {
                 "tags": "Sports",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -2083,7 +2122,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Venice, Italy",
-                "active": true
+                "active": false
               }
             ]
           }
