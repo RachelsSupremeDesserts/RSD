@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Preview",
-    "currentPage": "gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -629,19 +629,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Venice, Italy",
-                "active": true
-              },
-              {
-                "tags": "Places",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2019-08-28-b1t3dklg60w-1080x1080.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019-08-28-b1t3dklg60w-1080x1080-800x800.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Venice, Italy",
                 "active": false
               },
               {
@@ -649,8 +636,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2019-08-24-b1jmx0wgrxi-1080x793.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019-08-24-b1jmx0wgrxi-1080x793-800x587.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2019-09-22-b2ugbj4ahil-1080x1240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-09-22-b2ugbj4ahil-1080x1240-800x919.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Venice, Italy",
+                "active": true
+              },
+              {
+                "tags": "Places",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-10-19-b3zvjmfg5e1-1080x591.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-10-19-b3zvjmfg5e1-1080x591-800x438.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
