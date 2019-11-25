@@ -610,6 +610,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20191123-94543-2000x2796.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20191123-94543-2000x2796-800x1118.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Venice, Italy",
+                "active": false
+              },
+              {
+                "tags": "Places",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/2019-09-08-b1-g5imaaxe1-2000x1288.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2019-09-08-b1-g5imaaxe1-2000x1288-800x515.jpg",
                 "alt": "",
@@ -625,19 +638,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/2019-09-04-b1-g5imaaxe-1080x1077.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2019-09-04-b1-g5imaaxe-1080x1077-800x798.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Venice, Italy",
-                "active": false
-              },
-              {
-                "tags": "Places",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2019-09-22-b2ugbj4ahil-1080x1240.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2019-09-22-b2ugbj4ahil-1080x1240-800x919.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1241,6 +1241,19 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
+                "tags": "Events, Seasons, Holidays",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-20191123-94543-2000x2796.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20191123-94543-2000x2796-800x1118.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Venice, Italy",
+                "active": true
+              },
+              {
                 "tags": "Events, Places",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1277,7 +1290,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Venice, Italy",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Events",
@@ -4306,10 +4319,13 @@
             "background-color": "@bgColor",
             ".mbr-text, blockquote": {
               "color": "#767676"
+            },
+            ".mbr-text P": {
+              "text-align": "left"
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Q: How do I place an order? \n</b></p><p>A: Fill out the Order Form with the relevant information and we will contact you to discuss the request.\n</p><p><b>\n</b></p><p><b>Q: How do I recieve my cookies?\n</b></p><p>A: We are based in Toronto, ON and offer free pickup. We offer delivery within the GTA for a small fee and can provide a quote for shipping upon request. \n</p><p><b>\n</b></p><p><b>Q: Can you provide nut-free or gluten-free cookie options? \n</b></p><p>A: Unfortunately not at this time.\n</p><p><b>\n</b></p><p><b>Q: How much notice do you need for an order? \n</b></p><p>A: I would recommend at least 2 weeks in advance but the earlier the better. \n</p><p>\n</p><p><b>Q: How much do your cookies cost? \n</b></p><p>A: Prices start at $2.00 CAD and increase according to complexity. Feel free to contact me with your design so we can further discuss. \n</p><p><b>\n</b></p><p><b>Q: Do you request a deposit to place an order? \n</b></p><p>A: Yes. A 50% non-refundable deposit is to be made when order has been approved. The other 50 % is due 5 days before pickup/ Delivery/ shipping. \n</p><p><b>\n</b></p><p><b>Q: How can I pay for my order? \n</b></p><p>A: For online payments, we request E-Transfers. For payments made in person, we accept Cash, Visa, Mastercard, American Express and INTERAC Flash.\n</p><p><b>\n</b></p><p><b>Q: Do you make cookies based on orders or do you make large batches? \n</b></p><p>A: Each cookie is made to order. Cookies are usually baked a few days before and the rest of the days are spent decorating. &nbsp;</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Q: How do I place an order? \n</b></p><p>A: Fill out the Order Form with the relevant information and we will contact you to discuss the request.\n</p><p><b>\n</b></p><p><b>Q: How do I receive my cookies?\n</b></p><p>A: We are based in Toronto, ON. We offer delivery within the GTA for a small fee and can provide a quote for shipping upon request. \n</p><p><b>\n</b></p><p><b>Q: Can you provide nut-free or gluten-free cookie options? \n</b></p><p>A: Unfortunately, not at this time.\n</p><p><b>\n</b></p><p><b>Q: How much notice do you need for an order? \n</b></p><p>A: I would recommend at least 2 weeks in advance but the earlier the better. \n</p><p>\n</p><p><b>Q: How much do your cookies cost? \n</b></p><p>A: Prices start at $3.00 CAD and increase according to complexity. Feel free to contact me with your design so we can further discuss. \n</p><p><b>\n</b></p><p><b>Q: Do you request a deposit to place an order? \n</b></p><p>A: Yes. A 50% non-refundable deposit is to be made when order has been approved. The other 50 % is due 5 days before delivery or shipping. \n</p><p><b>\n</b></p><p><b>Q: How can I pay for my order? \n</b></p><p>A: For online payments, we request E-Transfers. For payments made in person, we accept Cash, Visa, Mastercard, American Express and Debit.\n</p><p><b>\n</b></p><p><b>Q: Do you make cookies based on orders or do you make large batches? \n</b></p><p>A: Each cookie is made to order. Cookies are usually baked a few days before and the rest of the days are spent decorating. &nbsp;</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rsOKFfeALx",
           "_anchor": "content1-l",
           "_protectedParams": [],
